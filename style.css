@@ -1,0 +1,26 @@
+#wrapper{
+
+max-width: 900px;  
+    margin: 30px;
+
+}
+
+#foot{
+    
+    text-align: center;
+    margin-top: 10px;
+    border-top: 5px solid black;
+    
+
+}
+
+.jumbotron{
+
+    Background-color:Navy;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+    text-align: center;
+    margin-left: 10px;
+    Margin-right: 10px;
+}
+
